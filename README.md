@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there!👋 I'm Raffaele Rizzuti, welcome to my GitHub profile. 
+
+## ℹ️ More info:
+
+🎓 I'm currently studying Computer Engineering at Politecnico di Milano.
+
+🚀 Looking for opportunities to grow as a software engineer!
+
+## 📫 How to reach me:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/raffaele-rizzuti-62a70a246)  
+✉️ Email: [raffaele7rizzuti@gmail.com](mailto:raffaele7rizzuti@gmail.com) 
 
 <!--
 **RaffaeleRizzuti1/RaffaeleRizzuti1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
