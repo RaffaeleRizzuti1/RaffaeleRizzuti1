@@ -1,6 +1,6 @@
 ## Hi there!👋 I'm Raffaele Rizzuti, welcome to my GitHub profile. 
 
-## ℹ️ More info:
+## ℹ️ About me:
 
 🎓 I'm currently studying Computer Engineering at Politecnico di Milano.
 
